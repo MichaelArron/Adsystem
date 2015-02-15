@@ -1,4 +1,5 @@
 <?php
 
-echo '22';
+echo 'ycc';
+echo '11';
 echo "test by ycc";
